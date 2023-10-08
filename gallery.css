@@ -33,7 +33,18 @@
     vertical-align: middle;
     width: 100%;
   }
-  
+  .button-div{
+    border:1px solid black;
+    display: flex;
+    justify-content:center;
+    height:100px;
+}
+button{
+    background-color:rgb(114, 48, 23);
+    color:white;
+    height:100px;
+
+}
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media screen and (max-width: 800px) {
     .column {
