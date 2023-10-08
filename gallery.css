@@ -34,7 +34,7 @@
     width: 100%;
   }
   .button-div{
-    border:1px solid black;
+    /* border:1px solid black; */
     display: flex;
     justify-content:center;
     height:100px;
